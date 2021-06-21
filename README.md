@@ -5,4 +5,4 @@ Attempted to first use the visual provided to attain the same aesthetic without 
 
 Overall helped to solidify simple flexbox principles and mobile-first. 
 
-See the live version [here] (https://bettyspurgeon.github.io/pricing-panel/)
+See the live version here: (https://bettyspurgeon.github.io/pricing-panel/)
